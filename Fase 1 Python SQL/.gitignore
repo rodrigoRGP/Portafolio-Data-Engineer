@@ -1,0 +1,16 @@
+# Seguridad: Nunca subir credenciales
+.env
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Logs del sistema
+logs/*.log

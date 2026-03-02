@@ -1,0 +1,6 @@
+[
+  "tests/test_ingestion.py::test_monto_cero_es_invalido",
+  "tests/test_ingestion.py::test_monto_negativo_es_invalido",
+  "tests/test_ingestion.py::test_monto_positivo_es_valido",
+  "tests/test_ingestion.py::test_servicio_no_autorizado_es_invalido"
+]

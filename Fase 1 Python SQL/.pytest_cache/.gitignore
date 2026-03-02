@@ -1,0 +1,3 @@
+# Created by pytest automatically.
+# Ignorar el caché de las pruebas
+.pytest_cache/
