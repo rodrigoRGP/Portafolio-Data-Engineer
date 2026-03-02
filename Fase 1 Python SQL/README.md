@@ -5,7 +5,7 @@ Sistema de ingesta y analítica de grado empresarial para el monitoreo de costos
 Este pipeline automatiza la extracción, validación y carga de +10,000 registros de facturación de AWS en un entorno PostgreSQL contenedorizado. Diseñado bajo principios de **Clean Code** y **Observabilidad**.
 
 ## Stack Tecnológico
-- **Lenguaje:** Python 3.13 (Optimizado para Apple Silicon)
+- **Lenguaje:** Python 3.13
 - **Base de Datos:** PostgreSQL en Docker (Agnóstico vía DBeaver)
 - **Calidad:** Pytest para Unit Testing.
 - **Seguridad:** Manejo de secretos mediante variables de entorno (.env).
